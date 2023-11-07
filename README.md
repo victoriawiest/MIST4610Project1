@@ -20,8 +20,6 @@ Our model is based on a Soccer Club, called UGA United Soccer Club. Our “Teams
 
 ![P1G10 Data Model](https://github.com/victoriawiest/MIST4610Project1/assets/148873180/1a078321-3813-4e7b-aed2-053ca7887cb5)
 
-<img width="651" alt="Screenshot 2023-11-02 at 3 57 51 PM" src="https://github.com/victoriawiest/MIST4610Project1/assets/148873180/4f47cdcf-39a7-48ca-b8e4-fb7c3b1332b8">
-<img width="406" alt="Screenshot 2023-11-02 at 4 00 04 PM" src="https://github.com/victoriawiest/MIST4610Project1/assets/148873180/de548084-92eb-49e9-aa80-92b505770966">
 
 ##  Data Dictionary
 <img width="881" alt="Players" src="https://github.com/victoriawiest/MIST4610Project1/assets/148873180/1bc98441-39f3-4c8d-9105-6e3e78183a0e">
