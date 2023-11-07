@@ -1,6 +1,7 @@
 
 # Team 10 MIST 4610 Project 1
 ## Team Name
+Group 10
 ## Team Members
 1. Victoria Wiest @victoriawiest
 2. Ashley Potts @ashley-potts
