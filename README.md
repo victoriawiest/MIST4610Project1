@@ -37,6 +37,9 @@ The current project is to create a relational database that models the general o
 
 
 ## Queries
+
+<img width="848" alt="Matrix" src="https://github.com/victoriawiest/MIST4610Project1/assets/148873180/5a1b6e63-9e5c-4d26-9ea9-7e2428bd4557">
+
 1. Retrieve all players who have not suffered any injuries:
 This query lists the first name, last name, and team name of all the players who have not suffered any injuries.
 
