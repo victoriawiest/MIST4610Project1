@@ -1,5 +1,5 @@
 
-# Team 10 MIST 4610 Project 1
+# MIST 4610 Project 1 Group 10
 ## Team Name
 Group 10
 ## Team Members
