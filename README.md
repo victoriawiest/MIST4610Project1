@@ -21,6 +21,19 @@ Our model is based on a Soccer Club, called UGA United Soccer Club. Our “Teams
 The current project is to create a relational database that models the general operations of a soccer club. The primary entity of the model is the Teams entity with the Teams representing each individual team that belongs to the UGA United Soccer Club. The Team entity has various relationships with other entities in the model such as Players, Coaches, Tournaments, etc. We are interested in accurately depicting these relationships and generating sample data to ensure that the goals of the database are achieved. Additionally, we plan to execute queries on the sample data to provide information that is relevant to the club from a managerial perspective.
 
 ##  Data Dictionary
+<img width="902" alt="Referees" src="https://github.com/victoriawiest/MIST4610Project1/assets/148873180/73ab7848-9f76-4e6b-8f0e-8fa7b11e2efa">
+<img width="892" alt="Staff" src="https://github.com/victoriawiest/MIST4610Project1/assets/148873180/cb08b5da-1bdc-4f04-a4c7-5ddd3d8c05c7">
+<img width="889" alt="Sponsors" src="https://github.com/victoriawiest/MIST4610Project1/assets/148873180/696d17f2-8f07-44aa-9e52-781d935e8da5">
+<img width="891" alt="Injuries" src="https://github.com/victoriawiest/MIST4610Project1/assets/148873180/229c2614-7238-4bbf-ab62-80a1dfbe2aae">
+<img width="893" alt="Registrations" src="https://github.com/victoriawiest/MIST4610Project1/assets/148873180/ced80df7-7892-4ce6-b70a-32605898241f">
+<img width="889" alt="Practice Sessions" src="https://github.com/victoriawiest/MIST4610Project1/assets/148873180/0cbb1e79-7e87-49cc-ba1a-98cff03b38fd">
+<img width="882" alt="Facilities" src="https://github.com/victoriawiest/MIST4610Project1/assets/148873180/27f41ad7-5b2f-4c7c-9494-796de0a0ad58">
+<img width="898" alt="Tournaments" src="https://github.com/victoriawiest/MIST4610Project1/assets/148873180/5ecbace6-99b4-40bf-a5d2-c5f69f40c38a">
+<img width="887" alt="Matches" src="https://github.com/victoriawiest/MIST4610Project1/assets/148873180/cc3f3e84-c250-46ed-b165-b7ebbf207f28">
+<img width="891" alt="Teams" src="https://github.com/victoriawiest/MIST4610Project1/assets/148873180/c554c71a-c897-421c-9561-215cd1da8432">
+<img width="899" alt="Coaches" src="https://github.com/victoriawiest/MIST4610Project1/assets/148873180/8449c3bc-c609-4474-966a-2161a46eab27">
+<img width="881" alt="Players" src="https://github.com/victoriawiest/MIST4610Project1/assets/148873180/e1859be0-bf1e-4fcd-914d-0ad3470859ec">
+
 
 ## Queries
 1. Retrieve all players who have not suffered any injuries:
